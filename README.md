@@ -12,7 +12,7 @@ Dataset can be found [here](https://drive.google.com/drive/folders/148ERleY0Vq6O
 
 ### Blog Post
 
-[*Will be available soon*]
+2024-12-12: Unveiling Coyote Ads: Detecting Human Smuggling Advertisements on Social Media (https://ws-dl.blogspot.com/2024/12/2024-12-12-unveiling-coyote-ads.html)
 
 ### Bibtex
 
