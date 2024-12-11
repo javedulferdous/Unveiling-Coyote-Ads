@@ -1,4 +1,4 @@
-# InSupport: Proxy Interface for Enabling Efficient Non - Visual Interaction with Web Data Records
+# Unveiling Coyote Ads: Detecting Human Smuggling Advertisements on Social Media
 
 ### Abstract
 <div align="justify"> 
@@ -8,7 +8,7 @@ Human smuggling is a grave social issue that carries several negative ramificati
 
 ### Dataset
 
-Model evaluation dataset can be found [here](https://drive.google.com/drive/folders/148ERleY0Vq6O2g75vAjhLfdNgomjno6i).
+Dataset can be found [here](https://drive.google.com/drive/folders/148ERleY0Vq6O2g75vAjhLfdNgomjno6i).
 
 ### Bibtex
 
