@@ -10,6 +10,10 @@ Human smuggling is a grave social issue that carries several negative ramificati
 
 Dataset can be found [here](https://drive.google.com/drive/folders/148ERleY0Vq6O2g75vAjhLfdNgomjno6i).
 
+### Blog Post
+
+[*Will be available soon*]
+
 ### Bibtex
 
 ```
