@@ -8,7 +8,21 @@ Human smuggling is a grave social issue that carries several negative ramificati
 
 ### Dataset
 
+#### Manually Download
+
 Dataset can be found [here](https://drive.google.com/drive/folders/148ERleY0Vq6O2g75vAjhLfdNgomjno6i).
+
+#### Download via command
+
+Install the `gdown` tool using pip:
+
+```bash
+pip install gdown
+```
+
+```bash
+gdown --folder https://drive.google.com/drive/folders/148ERleY0Vq6O2g75vAjhLfdNgomjno6i
+```
 
 ### Blog Post
 
