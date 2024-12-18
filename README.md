@@ -26,7 +26,7 @@ gdown --folder https://drive.google.com/drive/folders/148ERleY0Vq6O2g75vAjhLfdNg
 
 ### Outreach 
 
-* Blog Post : [2024-12-12: Unveiling Coyote Ads: Detecting Human Smuggling Advertisements on Social Media](https://ws-dl.blogspot.com/2024/12/2024-12-12-unveiling-coyote-ads.html)
+* Blog Post : [2024-12-XX: Unveiling Coyote Ads: Detecting Human Smuggling Advertisements on Social Media](https://ws-dl.blogspot.com/2024/12/2024-12-XX-unveiling-coyote-ads.html)
 * Trip Report: [2024-10-18: ACM SIGWEB conference on Hypertext and Social Media (HT) 2024 - Poznań, Poland Trip Report](https://ws-dl.blogspot.com/2024/10/2024-10-18-acm-sigweb-conference-on.html)
 
 ### Bibtex
